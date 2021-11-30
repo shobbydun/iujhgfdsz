@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890676960370",
+    "project_id": "motobase-f1266",
+    "storage_bucket": "motobase-f1266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890676960370:android:3598fdeda6ee1b0d79f6eb",
+        "android_client_info": {
+          "package_name": "com.example.motobase"
+        }
+      },
+      "oauth_client": [
+        {
+
+          "client_id": "890676960370-scv8704j8jl51osqsp3svjmgqgkau60j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motobase",
+            "certificate_hash": "3f91d7847b8902633a044e9ea66bcc673d1a6524"
+          }
+        },
+        {
+          "client_id": "890676960370-7smrlqaiid9i5e2ak5gk1hrr2obc5kru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2vR7ubNvtheDc-jjL37Fic-wAsU0qF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890676960370-7smrlqaiid9i5e2ak5gk1hrr2obc5kru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
